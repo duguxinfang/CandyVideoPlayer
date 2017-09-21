@@ -8,7 +8,7 @@
 ![](https://github.com/duguxinfang/CandyVideoPlayer/master/img/device-2017-09-21-120642.png)  
 ![](https://github.com/duguxinfang/CandyVideoPlayer/master/img/device-2017-09-21-120743.png) 
 ### 依赖库
-compile 'com.android.support:appcompat-v7:' + supportLibraryVersion
-compile 'com.android.support:recyclerview-v7:24.1.0'
-compile 'com.github.bumptech.glide:glide:3.7.0'
-以及exoplayer相关的依赖库
+compile 'com.android.support:appcompat-v7:' + supportLibraryVersion<br>
+compile 'com.android.support:recyclerview-v7:24.1.0'<br>
+compile 'com.github.bumptech.glide:glide:3.7.0'<br>
+以及exoplayer相关的依赖库<br>
