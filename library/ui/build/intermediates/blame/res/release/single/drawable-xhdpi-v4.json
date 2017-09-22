@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_control_shrink.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-xhdpi/exo_control_shrink.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-xhdpi/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_rewind.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-xhdpi/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_next.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-xhdpi/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_control_expend.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-xhdpi/exo_control_expend.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_previous.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-xhdpi/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_pause.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-xhdpi/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/generated/res/pngs/release/drawable-xhdpi/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/intermediates/res/merged/release/drawable-xhdpi-v4/exo_controls_play.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-xhdpi/exo_controls_play.png"
+    }
+]

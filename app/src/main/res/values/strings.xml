@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+
+    <string-array name="video_url_list">
+        <item>https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4</item>
+        <item>https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4</item>
+        <item>https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4</item>
+        <item>https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4</item>
+        <item>https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4</item>
+        <item>https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4</item>
+        <item>https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4</item>
+        <item>https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4</item>
+        <item>https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4</item>
+        <item>https://storage.googleapis.com/exoplayer-test-media-1/gen-3/screens/dash-vod-single-segment/video-avc-baseline-480.mp4</item>
+    </string-array>
+
+    <string-array name="thumb_url_list">
+        <item>http://d.lanrentuku.com/down/png/1702/10fruiticons_buttons/fruiticons_buttons_strawberry.png</item>
+        <item>http://d.lanrentuku.com/down/png/1702/10fruiticons_buttons/fruiticons_buttons_watermelon.png</item>
+        <item>http://d.lanrentuku.com/down/png/1702/10fruiticons_buttons/fruiticons_buttons_apple.png</item>
+        <item>http://d.lanrentuku.com/down/png/1702/10fruiticons_buttons/fruiticons_buttons_pomegrante.png</item>
+        <item>http://d.lanrentuku.com/down/png/1702/10fruiticons_buttons/fruiticons_buttons_grape.png</item>
+        <item>http://d.lanrentuku.com/down/png/1702/10fruiticons_buttons/fruiticons_buttons_lemon.png</item>
+        <item>http://d.lanrentuku.com/down/png/1702/10fruiticons_buttons/fruiticons_buttons_pineapple.png</item>
+        <item>http://d.lanrentuku.com/down/png/1702/10fruiticons_buttons/fruiticons_buttons_pear.png</item>
+        <item>http://d.lanrentuku.com/down/png/1702/10fruiticons_buttons/fruiticons_buttons_orange.png</item>
+        <item>http://d.lanrentuku.com/down/png/1702/10fruiticons_buttons/fruiticons_buttons_mango.png </item>
+
+    </string-array>
+
+</resources>

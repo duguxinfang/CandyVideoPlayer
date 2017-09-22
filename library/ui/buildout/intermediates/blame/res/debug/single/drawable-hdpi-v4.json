@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_next.png",
+        "source": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/src/main/res/drawable-hdpi/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_previous.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-hdpi/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_previous.png",
+        "source": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/src/main/res/drawable-hdpi/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_rewind.png",
+        "source": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/src/main/res/drawable-hdpi/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-hdpi/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/buildout/generated/res/pngs/debug/drawable-hdpi/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_play.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-hdpi/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_rewind.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-hdpi/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_pause.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-hdpi/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/src/main/res/drawable-hdpi/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/buildout/generated/res/pngs/debug/drawable-hdpi/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_pause.png",
+        "source": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/src/main/res/drawable-hdpi/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_play.png",
+        "source": "/Users/candy/Documents/study/ExoPlayer-release-v2-2/library/ui/src/main/res/drawable-hdpi/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/ui/buildout/intermediates/res/merged/debug/drawable-hdpi-v4/exo_controls_next.png",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/drawable-hdpi/exo_controls_next.png"
+    }
+]

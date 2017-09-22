@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/all/build/intermediates/res/merged/debug/layout/exo_playback_control_view.xml",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/all/build/intermediates/exploded-aar/VideoPlayer/library-ui/unspecified/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/candy/Documents/study/VideoPlayer/library/all/build/intermediates/res/merged/debug/layout/exo_simple_player_view.xml",
+        "source": "/Users/candy/Documents/study/VideoPlayer/library/all/build/intermediates/exploded-aar/VideoPlayer/library-ui/unspecified/res/layout/exo_simple_player_view.xml"
+    }
+]

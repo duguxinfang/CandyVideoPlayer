@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/candy/Documents/study/VideoPlayer/library/ui/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 10,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/candy/Documents/study/VideoPlayer/library/ui/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 685,
+                        "endLine": 21,
+                        "endColumn": 10,
+                        "endOffset": 959
+                    }
+                }
+            }
+        ]
+    }
+]
